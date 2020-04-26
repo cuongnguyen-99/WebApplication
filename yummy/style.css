@@ -1496,3 +1496,15 @@ li {
 	color: #fff;
 	cursor: pointer;
 }
+
+#login-link:hover{
+    cursor: pointer;
+}
+
+#register-link:hover{
+    cursor: pointer;
+}
+
+#search-anything:hover{
+    cursor:pointer;
+}
