@@ -1,11 +1,3 @@
-/* ----------------------------------------------
-:: Template Name: Yummy Blog - Food Blog Template
-:: Template Author: Colorlib
-:: Template Author URI: https://colorlib.com
-:: Version: v1.0.0
-:: Last Updated: 11-13-2017
----------------------------------------------- */
-
 /* -------- [Master Stylesheet] --------
 :: 1.0 Base CSS
 :: 2.0 Top Header Area CSS
@@ -262,7 +254,7 @@ li {
     font-family: 'Lobster', cursive !important;
 }
 
-.yummy-table {
+.QuyNhonTrip-table {
     display: table;
     height: 100%;
     left: 0;
@@ -272,7 +264,7 @@ li {
     z-index: 2;
 }
 
-.yummy-table-cell {
+.QuyNhonTrip-table-cell {
     display: table-cell;
     vertical-align: middle;
 }
@@ -288,9 +280,9 @@ li {
     z-index: 999999;
 }
 
-.yummy-load {
-    -webkit-animation: 2000ms linear 0s normal none infinite running yummy-load;
-    animation: 2000ms linear 0s normal none infinite running yummy-load;
+.QuyNhonTrip-load {
+    -webkit-animation: 2000ms linear 0s normal none infinite running QuyNhonTrip-load;
+    animation: 2000ms linear 0s normal none infinite running QuyNhonTrip-load;
     background: transparent none repeat scroll 0 0;
     border-color: #dddddd #dddddd #fc6c3f;
     border-radius: 50%;
@@ -304,7 +296,7 @@ li {
     z-index: 9;
 }
 
-@-webkit-keyframes yummy-load {
+@-webkit-keyframes QuyNhonTrip-load {
     0% {
         -webkit-transform: rotate(0deg);
         transform: rotate(0deg);
@@ -315,7 +307,7 @@ li {
     }
 }
 
-@keyframes yummy-load {
+@keyframes QuyNhonTrip-load {
     0% {
         -webkit-transform: rotate(0deg);
         transform: rotate(0deg);
@@ -453,7 +445,7 @@ li {
 :: 3.0 Menu Area CSS
 -------------------- */
 
-.logo_area .yummy-logo {
+.logo_area .QuyNhonTrip-logo {
     font-family: 'Lobster', cursive; 
     font-size: 60px;
     margin-bottom: 0;
@@ -858,7 +850,7 @@ li {
     border-bottom: 1px solid #eeeeee;
 }
 
-.footer-logo-area .yummy-logo {
+.footer-logo-area .QuyNhonTrip-logo {
     font-family: 'Lobster', cursive;
     font-size: 60px;
     margin-bottom: 0;
@@ -1268,16 +1260,16 @@ li {
     background-color: #a88c0a;
 }
 
-.yummy-blockquote {
+.QuyNhonTrip-blockquote {
     padding-left: 30px;
     border-left: 2px solid #fc6c3f;
 }
 
-.yummy-blockquote h5 {
+.QuyNhonTrip-blockquote h5 {
     font-size: 18px;
 }
 
-.yummy-blockquote h6 {
+.QuyNhonTrip-blockquote h6 {
     font-size: 14px;
     text-transform: uppercase;
 }
