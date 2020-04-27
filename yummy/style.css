@@ -1509,3 +1509,7 @@ li {
 #search-anything:hover{
     cursor:pointer;
 }
+
+#nav-link-dropdown-toggle:hover{
+    cursor: pointer;
+}
