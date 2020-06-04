@@ -382,9 +382,9 @@ li {
    
 }
 
-#searchBtn {
+#homeBtn {
     position: relative;
-    z-index: 8;
+    z-index: 20;
 }
 
 .search-hidden-form {
@@ -1501,7 +1501,7 @@ li {
     cursor: pointer;
 }
 
-#register-link:hover{
+#dndk-link:hover{
     cursor: pointer;
 }
 

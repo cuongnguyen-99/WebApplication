@@ -10,7 +10,7 @@
 
 (function (factory) {
 	if (typeof define === 'function' && define.amd) {
-		// AMD. Register as an anonymous module.
+		// AMD. dndkas an anonymous module.
 		define(['jquery'], factory);
 	} else if (typeof exports === 'object') {
 		// Node/CommonJS
